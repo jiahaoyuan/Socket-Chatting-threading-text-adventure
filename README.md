@@ -1,4 +1,3 @@
 # Socket-Chatting-threading-text-adventure
 
-dfgsdfgds
-sdfjsdlfjsdlkfj
+Jiahao Yuan & Paul Balog
